@@ -1,0 +1,8 @@
+MachineLearning/.ipynb_checkpoints
+MachineLearning/__pycache__
+MachineLearning/.idea
+env/
+Test/__pycache__
+*.pyc
+*.dat
+external_comms/evaluation_logs
